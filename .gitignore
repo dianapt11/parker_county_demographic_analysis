@@ -5,6 +5,7 @@ data/raw/
 .Rhistory
 .RData
 .Rproj.user/
+report/parker_county_analysis_report.html
 
 # API keys
 .Renviron

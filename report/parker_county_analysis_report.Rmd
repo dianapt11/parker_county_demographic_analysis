@@ -110,7 +110,7 @@ knitr::include_graphics(c("../outputs/med_income_plot.png",
 ### Population Growth
 Total population increased steadily from 2014 to 2019 and accelerated significantly between 2019 and 2024.
 
-Growth is concentrated tracts near the edge of the Dallas-Fort Worth metropolitan edge and significant growth is noted in some western tracts, reflecting outward suburban expansion.
+Growth is concentrated in tracts near the edge of the Dallas-Fort Worth metropolitan and significant growth is noted in some western tracts, reflecting outward suburban expansion.
 
 The creation of new census tracts during this period highlights the scale of growth and indicates structural changes in the county's geographic organization.
  
