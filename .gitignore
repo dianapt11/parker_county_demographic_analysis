@@ -1,0 +1,14 @@
+# Ignore raw data
+data/raw/
+
+# R files
+.Rhistory
+.RData
+.Rproj.user/
+
+# API keys
+.Renviron
+
+# OS files
+.DS_Store
+Thumbs.db
